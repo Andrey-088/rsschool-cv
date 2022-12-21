@@ -2,7 +2,7 @@
 # Andrey Shipkov
 ## Contacts:
  - **Discord:** Andrey (@Andrey-088)
- - **e-mail:** shipkov.omsk@gmail.com
+ - **e-mail:** shipkovfrontend@gmail.com
  - **tel:** +0-123-45-67
 
 ## About me:
